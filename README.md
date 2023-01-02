@@ -2,18 +2,6 @@
 
 ***
 
-### Summary
-
-I have gone through a mentoring program, courses. During studying I have worked
-on commercial projects. Thanks to that I acquired not only good theoretical knowledge,
-but also put that into practice on real projects.
-
-I'm striving to write a clean, readable code by following best practices. While doing so I'm
-collaborating closely with the team to make it best for all of us and help everyone improve
-and learn from each other.
-
-I am currently working for a company that is growing rapidly in its lively and friendly atmosphere.
-
 ### My skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -36,13 +24,25 @@ I am currently working for a company that is growing rapidly in its lively and f
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)&nbsp;
 
-## Contact me
+### Summary
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mlichlundia)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlichlundiapl@gmail.com)
+I have gone through a mentoring program, courses. During studying I have worked
+on commercial projects. Thanks to that I acquired not only good theoretical knowledge,
+but also put that into practice on real projects.
+
+I'm striving to write a clean, readable code by following best practices. While doing so I'm
+collaborating closely with the team to make it best for all of us and help everyone improve
+and learn from each other.
+
+I am currently working for a company that is growing rapidly in its lively and friendly atmosphere.
 
 ## Frameworks
 
 [![Angular](https://raw.githubusercontent.com/kuzkov/kuzkov/main/assets/angular.png)](#)
 [![React](https://raw.githubusercontent.com/kuzkov/kuzkov/main/assets/react.png)](#)
 [![Vue](https://raw.githubusercontent.com/kuzkov/kuzkov/main/assets/vue.png)](#)
+
+## Contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mlichlundia)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlichlundiapl@gmail.com)
