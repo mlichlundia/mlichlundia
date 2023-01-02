@@ -1,4 +1,4 @@
-# Hi, everyone! I’m a professional Frontend Developer.
+# Hi, everyone! I’m a Frontend Developer.
 
 ***
 
@@ -38,8 +38,8 @@ I am currently working for a company that is growing rapidly in its lively and f
 
 ## Contact me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artyom_kuzkov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fl.artyom.kuzkov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mlichlundia)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlichlundiapl@gmail.com)
 
 ## Frameworks
 
