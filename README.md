@@ -1,8 +1,8 @@
-#Hi, everyone! I’m a professional Frontend Developer.
+# Hi, everyone! I’m a professional Frontend Developer.
 
 ***
 
-###Summary
+### Summary
 
 I have gone through a mentoring program, courses. During studying I have worked
 on commercial projects. Thanks to that I acquired not only good theoretical knowledge,
@@ -14,7 +14,7 @@ and learn from each other.
 
 I am currently working for a company that is growing rapidly in its lively and friendly atmosphere.
 
-###My skills
+### My skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
